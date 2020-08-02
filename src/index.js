@@ -201,7 +201,6 @@ function NavigationBar(){
             <Navbar.Brand href="#home">
                 <img
                     alt=""
-                    src="./logo.png"
                     width="620"
                     height="60"
                     className="d-inline-block align-top"

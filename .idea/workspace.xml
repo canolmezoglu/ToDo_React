@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7170375-eaaa-423d-8422-211d52f6eb84" name="Default Changelist" comment="" />
+    <list default="true" id="e7170375-eaaa-423d-8422-211d52f6eb84" name="Default Changelist" comment="V1 with everything">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eBkG13jcqIPIzBS4NesY9YW1Nz" />
   <component name="ProjectViewState">
@@ -15,9 +33,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,10 +73,77 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593802273207</updated>
+      <workItem from="1593802277920" duration="4777000" />
+      <workItem from="1593894703137" duration="599000" />
+      <workItem from="1594552520986" duration="9000" />
+      <workItem from="1595603744941" duration="1256000" />
+      <workItem from="1595938037073" duration="4392000" />
+      <workItem from="1596107516417" duration="3923000" />
+      <workItem from="1596137048906" duration="40493000" />
+      <workItem from="1596377824244" duration="50000" />
+      <workItem from="1596377890153" duration="16538000" />
     </task>
+    <task id="LOCAL-00001" summary="V1 with everything">
+      <created>1596404417562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596404417562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V1 with everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1 with everything" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1596404937498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596404937498" />
+    <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1596404303372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596404303372" />
+    <state x="641" y="307" width="258" height="210" key="Github.ShareDialog" timestamp="1596404530759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="641" y="307" width="258" height="210" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1596404530759" />
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom" timestamp="1596379047321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596379047321" />
+    <state width="1493" height="253" key="GridCell.Tab.0.center" timestamp="1596379047321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596379047321" />
+    <state width="1493" height="253" key="GridCell.Tab.0.left" timestamp="1596379047320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596379047320" />
+    <state width="1493" height="253" key="GridCell.Tab.0.right" timestamp="1596379047321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596379047321" />
+    <state x="349" y="156" key="IDE.errors.dialog" timestamp="1596377778312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="156" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1596377778312" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1596404607182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596404607182" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1596377890779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596377890779" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1596285658041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596285658041" />
   </component>
 </project>
